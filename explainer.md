@@ -7,8 +7,6 @@
 - Philipp Pfeiffenberger (Google)
 - Sergey Kataev (Google)
 
-## Participate
-- [Issue tracker](https://github.com/RupertBenWiser/Web-Environment-Integrity/issues)
 
 ## Table of Contents
 
